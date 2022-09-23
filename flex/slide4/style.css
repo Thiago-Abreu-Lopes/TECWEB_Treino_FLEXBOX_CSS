@@ -1,0 +1,13 @@
+.bloco{
+    background-color: rgb(90, 159, 237);
+    width: 20%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.conteiner{
+    display: flex;
+    gap:15px;
+    justify-content: center;
+}

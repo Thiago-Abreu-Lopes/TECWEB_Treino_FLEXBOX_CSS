@@ -1,0 +1,15 @@
+.bloco{
+    background-color: rgb(90, 159, 237);
+    width: 20%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#dois{
+    background-color: red;
+}
+.conteiner{
+    display: flex;
+    gap:15px;
+}
